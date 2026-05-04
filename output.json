@@ -1,0 +1,2233 @@
+[
+ {
+  "id": 1,
+  "name": "Scattergun",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Scattergun",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/1/1b/Item_icon_Scattergun.png/100px-Item_icon_Scattergun.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 2,
+  "name": "Force-a-Nature",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Force-a-Nature",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/e/ed/Item_icon_Force-A-Nature.png/100px-Item_icon_Force-A-Nature.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 3,
+  "name": "Shortstop",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Shortstop",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/84/Item_icon_Shortstop.png/100px-Item_icon_Shortstop.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 4,
+  "name": "Soda Popper",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Soda_Popper",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/f/f1/Item_icon_Soda_Popper.png/100px-Item_icon_Soda_Popper.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 5,
+  "name": "Baby Face's Blaster",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Baby_Face%27s_Blaster",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/e/e6/Item_icon_Baby_Face%27s_Blaster.png/100px-Item_icon_Baby_Face%27s_Blaster.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 6,
+  "name": "Back Scatter",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Back_Scatter",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/1/11/Item_icon_Back_Scatter.png/100px-Item_icon_Back_Scatter.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 7,
+  "name": "Pistol",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Pistol",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/52/Item_icon_Pistol.png/100px-Item_icon_Pistol.png",
+  "isskin": false,
+  "classes": [
+   "Scout",
+   "Engineer"
+  ]
+ },
+ {
+  "id": 8,
+  "name": "Lugermorph",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Lugermorph",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/86/Item_icon_Lugermorph.png/100px-Item_icon_Lugermorph.png",
+  "isskin": true,
+  "classes": [
+   "Scout",
+   "Engineer"
+  ]
+ },
+ {
+  "id": 9,
+  "name": "C.A.P.P.E.R",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/C.A.P.P.E.R",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/a/a6/Item_icon_C.A.P.P.E.R.png/100px-Item_icon_C.A.P.P.E.R.png",
+  "isskin": true,
+  "classes": [
+   "Scout",
+   "Engineer"
+  ]
+ },
+ {
+  "id": 10,
+  "name": "Winger",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Winger",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/4/4e/Item_icon_Winger.png/100px-Item_icon_Winger.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 11,
+  "name": "Pretty Boy's Pocket Pistol",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Pretty_Boy%27s_Pocket_Pistol",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/f/f6/Item_icon_Pretty_Boy%27s_Pocket_Pistol.png/100px-Item_icon_Pretty_Boy%27s_Pocket_Pistol.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 12,
+  "name": "Flying Guillotine",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Flying_Guillotine",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/5a/Item_icon_Flying_Guillotine.png/100px-Item_icon_Flying_Guillotine.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 13,
+  "name": "Bonk! Atomic Punch",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Bonk!_Atomic_Punch",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/8f/Item_icon_Bonk%21_Atomic_Punch.png/100px-Item_icon_Bonk%21_Atomic_Punch.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 14,
+  "name": "Crit-a-Cola",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Crit-a-Cola",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/a/ae/Item_icon_Crit-a-Cola.png/100px-Item_icon_Crit-a-Cola.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 15,
+  "name": "Mad Milk",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Mad_Milk",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/56/Item_icon_Mad_Milk.png/100px-Item_icon_Mad_Milk.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 16,
+  "name": "Mutated Milk",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Mutated_Milk",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/bd/Item_icon_Mutated_Milk.png/100px-Item_icon_Mutated_Milk.png",
+  "isskin": true,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 17,
+  "name": "Bat",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Bat",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/b5/Item_icon_Bat.png/100px-Item_icon_Bat.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 18,
+  "name": "Holy Mackerel",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Holy_Mackerel",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/86/Item_icon_Holy_Mackerel.png/100px-Item_icon_Holy_Mackerel.png",
+  "isskin": true,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 19,
+  "name": "Unarmed Combat",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Unarmed_Combat",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/9/96/Item_icon_Unarmed_Combat.png/100px-Item_icon_Unarmed_Combat.png",
+  "isskin": true,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 20,
+  "name": "Batsaber",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Batsaber",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/e/ef/Item_icon_Batsaber.png/100px-Item_icon_Batsaber.png",
+  "isskin": true,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 21,
+  "name": "Sandman",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Sandman",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/70/Item_icon_Sandman.png/100px-Item_icon_Sandman.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 22,
+  "name": "Candy Cane",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Candy_Cane",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/0/05/Item_icon_Candy_Cane.png/100px-Item_icon_Candy_Cane.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 23,
+  "name": "Boston Basher",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Boston_Basher",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/b5/Item_icon_Boston_Basher.png/100px-Item_icon_Boston_Basher.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 24,
+  "name": "Three-Rune Blade",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Three-Rune_Blade",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/f/f6/Item_icon_Three-Rune_Blade.png/100px-Item_icon_Three-Rune_Blade.png",
+  "isskin": true,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 25,
+  "name": "Sun-on-a-Stick",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Sun-on-a-Stick",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/0/06/Item_icon_Sun-on-a-Stick.png/100px-Item_icon_Sun-on-a-Stick.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 26,
+  "name": "Fan O'War",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Fan_O%27War",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/f/f4/Item_icon_Fan_O%27War.png/100px-Item_icon_Fan_O%27War.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 27,
+  "name": "Atomizer",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Atomizer",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/2/29/Item_icon_Atomizer.png/100px-Item_icon_Atomizer.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 28,
+  "name": "Wrap Assassin",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Wrap_Assassin",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/6/6b/Item_icon_Wrap_Assassin.png/100px-Item_icon_Wrap_Assassin.png",
+  "isskin": false,
+  "classes": [
+   "Scout"
+  ]
+ },
+ {
+  "id": 29,
+  "name": "Rocket Launcher",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Rocket_Launcher",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/f/fe/Item_icon_Rocket_Launcher.png/100px-Item_icon_Rocket_Launcher.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 30,
+  "name": "Original",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Original",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/88/Item_icon_Original.png/100px-Item_icon_Original.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 31,
+  "name": "Direct Hit",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Direct_Hit",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/e/e7/Item_icon_Direct_Hit.png/100px-Item_icon_Direct_Hit.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 32,
+  "name": "Black Box",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Black_Box",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/d/d2/Item_icon_Black_Box.png/100px-Item_icon_Black_Box.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 33,
+  "name": "Rocket Jumper",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Rocket_Jumper",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/53/Item_icon_Rocket_Jumper.png/100px-Item_icon_Rocket_Jumper.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 34,
+  "name": "Liberty Launcher",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Liberty_Launcher",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/2/24/Item_icon_Liberty_Launcher.png/100px-Item_icon_Liberty_Launcher.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 35,
+  "name": "Cow Mangler 5000",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Cow_Mangler_5000",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/4/46/Item_icon_Cow_Mangler_5000.png/100px-Item_icon_Cow_Mangler_5000.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 36,
+  "name": "Beggar's Bazooka",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Beggar%27s_Bazooka",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/77/Item_icon_Beggar%27s_Bazooka.png/100px-Item_icon_Beggar%27s_Bazooka.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 37,
+  "name": "Air Strike",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Air_Strike",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/f/f8/Item_icon_Air_Strike.png/100px-Item_icon_Air_Strike.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 38,
+  "name": "Shotgun",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Shotgun",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/5f/Item_icon_Shotgun.png/100px-Item_icon_Shotgun.png",
+  "isskin": false,
+  "classes": [
+   "Engineer",
+   "Soldier",
+   "Pyro",
+   "Heavy"
+  ]
+ },
+ {
+  "id": 39,
+  "name": "Reserve Shooter",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Reserve_Shooter",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/3/34/Item_icon_Reserve_Shooter.png/100px-Item_icon_Reserve_Shooter.png",
+  "isskin": false,
+  "classes": [
+   "Soldier",
+   "Pyro"
+  ]
+ },
+ {
+  "id": 40,
+  "name": "Buff Banner",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Buff_Banner",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/7c/Item_icon_Buff_Banner.png/100px-Item_icon_Buff_Banner.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 41,
+  "name": "Gunboats",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Gunboats",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/0/0c/Item_icon_Gunboats.png/100px-Item_icon_Gunboats.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 42,
+  "name": "Battalion's Backup",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Battalion%27s_Backup",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/d/d8/Item_icon_Battalion%27s_Backup.png/100px-Item_icon_Battalion%27s_Backup.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 43,
+  "name": "Concheror",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Concheror",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/7e/Item_icon_Concheror.png/100px-Item_icon_Concheror.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 44,
+  "name": "Mantreads",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Mantreads",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/6/6a/Item_icon_Mantreads.png/100px-Item_icon_Mantreads.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 45,
+  "name": "Righteous Bison",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Righteous_Bison",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/1/1d/Item_icon_Righteous_Bison.png/100px-Item_icon_Righteous_Bison.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 46,
+  "name": "B.A.S.E. Jumper",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/B.A.S.E._Jumper",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/b2/Item_icon_B.A.S.E._Jumper.png/100px-Item_icon_B.A.S.E._Jumper.png",
+  "isskin": false,
+  "classes": [
+   "Soldier",
+   "Demoman"
+  ]
+ },
+ {
+  "id": 47,
+  "name": "Panic Attack",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Panic_Attack",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/be/Item_icon_Panic_Attack.png/100px-Item_icon_Panic_Attack.png",
+  "isskin": false,
+  "classes": [
+   "Engineer",
+   "Soldier",
+   "Pyro",
+   "Heavy"
+  ]
+ },
+ {
+  "id": 48,
+  "name": "Shovel",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Shovel",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/73/Item_icon_Shovel.png/100px-Item_icon_Shovel.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 49,
+  "name": "Equalizer",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Equalizer",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/ba/Item_icon_Equalizer.png/100px-Item_icon_Equalizer.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 50,
+  "name": "Pain Train",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Pain_Train",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/4/4b/Item_icon_Pain_Train.png/100px-Item_icon_Pain_Train.png",
+  "isskin": false,
+  "classes": [
+   "Soldier",
+   "Demoman"
+  ]
+ },
+ {
+  "id": 51,
+  "name": "Half-Zatoichi",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Half-Zatoichi",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/a/a9/Item_icon_Half-Zatoichi.png/100px-Item_icon_Half-Zatoichi.png",
+  "isskin": false,
+  "classes": [
+   "Soldier",
+   "Demoman"
+  ]
+ },
+ {
+  "id": 52,
+  "name": "Disciplinary Action",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Disciplinary_Action",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/cf/Item_icon_Disciplinary_Action.png/100px-Item_icon_Disciplinary_Action.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 53,
+  "name": "Market Gardener",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Market_Gardener",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/a/ac/Item_icon_Market_Gardener.png/100px-Item_icon_Market_Gardener.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 54,
+  "name": "Escape Plan",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Escape_Plan",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/0/0c/Item_icon_Escape_Plan.png/100px-Item_icon_Escape_Plan.png",
+  "isskin": false,
+  "classes": [
+   "Soldier"
+  ]
+ },
+ {
+  "id": 55,
+  "name": "Flame Thrower",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Flame_Thrower",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/e/ec/Item_icon_Flame_Thrower.png/100px-Item_icon_Flame_Thrower.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 56,
+  "name": "Rainblower",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Rainblower",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/3/3c/Item_icon_Rainblower.png/100px-Item_icon_Rainblower.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 57,
+  "name": "Nostromo Napalmer",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Nostromo_Napalmer",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/d/d3/Item_icon_Nostromo_Napalmer.png/100px-Item_icon_Nostromo_Napalmer.png",
+  "isskin": true,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 58,
+  "name": "Backburner",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Backburner",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/5d/Item_icon_Backburner.png/100px-Item_icon_Backburner.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 59,
+  "name": "Degreaser",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Degreaser",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/9/94/Item_icon_Degreaser.png/100px-Item_icon_Degreaser.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 60,
+  "name": "Phlogistinator",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Phlogistinator",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/2/22/Item_icon_Phlogistinator.png/100px-Item_icon_Phlogistinator.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 61,
+  "name": "Dragon's Fury",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Dragon%27s_Fury",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/1/1f/Item_icon_Dragon%27s_Fury.png/100px-Item_icon_Dragon%27s_Fury.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 62,
+  "name": "Shotgun",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Shotgun",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/5f/Item_icon_Shotgun.png/100px-Item_icon_Shotgun.png",
+  "isskin": false,
+  "classes": [
+   "Engineer",
+   "Soldier",
+   "Pyro",
+   "Heavy"
+  ]
+ },
+ {
+  "id": 63,
+  "name": "Reserve Shooter",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Reserve_Shooter",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/3/34/Item_icon_Reserve_Shooter.png/100px-Item_icon_Reserve_Shooter.png",
+  "isskin": false,
+  "classes": [
+   "Soldier",
+   "Pyro"
+  ]
+ },
+ {
+  "id": 64,
+  "name": "Flare Gun",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Flare_Gun",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/7b/Item_icon_Flare_Gun.png/100px-Item_icon_Flare_Gun.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 65,
+  "name": "Detonator",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Detonator",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/53/Item_icon_Detonator.png/100px-Item_icon_Detonator.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 66,
+  "name": "Manmelter",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Manmelter",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/9/9d/Item_icon_Manmelter.png/100px-Item_icon_Manmelter.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 67,
+  "name": "Scorch Shot",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Scorch_Shot",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/be/Item_icon_Scorch_Shot.png/100px-Item_icon_Scorch_Shot.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 68,
+  "name": "Panic Attack",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Panic_Attack",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/be/Item_icon_Panic_Attack.png/100px-Item_icon_Panic_Attack.png",
+  "isskin": false,
+  "classes": [
+   "Engineer",
+   "Soldier",
+   "Pyro",
+   "Heavy"
+  ]
+ },
+ {
+  "id": 69,
+  "name": "Thermal Thruster",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Thermal_Thruster",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/0/00/Item_icon_Thermal_Thruster.png/100px-Item_icon_Thermal_Thruster.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 70,
+  "name": "Gas Passer",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Gas_Passer",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/0/0e/Item_icon_Gas_Passer.png/100px-Item_icon_Gas_Passer.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 71,
+  "name": "Fire Axe",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Fire_Axe",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/9/9f/Item_icon_Fire_Axe.png/100px-Item_icon_Fire_Axe.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 72,
+  "name": "Lollichop",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Lollichop",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/6/65/Item_icon_Lollichop.png/100px-Item_icon_Lollichop.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 73,
+  "name": "Axtinguisher",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Axtinguisher",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/c9/Item_icon_Axtinguisher.png/100px-Item_icon_Axtinguisher.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 74,
+  "name": "Postal Pummeler",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Postal_Pummeler",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/2/2d/Item_icon_Postal_Pummeler.png/100px-Item_icon_Postal_Pummeler.png",
+  "isskin": true,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 75,
+  "name": "Homewrecker",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Homewrecker",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/4/4a/Item_icon_Homewrecker.png/100px-Item_icon_Homewrecker.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 76,
+  "name": "Maul",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Maul",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/2/2e/Item_icon_Maul.png/100px-Item_icon_Maul.png",
+  "isskin": true,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 77,
+  "name": "Powerjack",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Powerjack",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/cf/Item_icon_Powerjack.png/100px-Item_icon_Powerjack.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 78,
+  "name": "Back Scratcher",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Back_Scratcher",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/4/48/Item_icon_Back_Scratcher.png/100px-Item_icon_Back_Scratcher.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 79,
+  "name": "Sharpened Volcano Fragment",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Sharpened_Volcano_Fragment",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/a/ac/Item_icon_Sharpened_Volcano_Fragment.png/100px-Item_icon_Sharpened_Volcano_Fragment.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 80,
+  "name": "Third Degree",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Third_Degree",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/9/91/Item_icon_Third_Degree.png/100px-Item_icon_Third_Degree.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 81,
+  "name": "Neon Annihilator",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Neon_Annihilator",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/e/e9/Item_icon_Neon_Annihilator.png/100px-Item_icon_Neon_Annihilator.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 82,
+  "name": "Hot Hand",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Hot_Hand",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/f/f6/Item_icon_Hot_Hand.png/100px-Item_icon_Hot_Hand.png",
+  "isskin": false,
+  "classes": [
+   "Pyro"
+  ]
+ },
+ {
+  "id": 83,
+  "name": "Grenade Launcher",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Grenade_Launcher",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/e/e6/Item_icon_Grenade_Launcher.png/100px-Item_icon_Grenade_Launcher.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 84,
+  "name": "Loch-n-Load",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Loch-n-Load",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/6/62/Item_icon_Loch-n-Load.png/100px-Item_icon_Loch-n-Load.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 85,
+  "name": "Ali Baba's Wee Booties",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Ali_Baba%27s_Wee_Booties",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/a/a4/Item_icon_Ali_Baba%27s_Wee_Booties.png/100px-Item_icon_Ali_Baba%27s_Wee_Booties.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 86,
+  "name": "Bootlegger",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Bootlegger",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/4/4c/Item_icon_Bootlegger.png/100px-Item_icon_Bootlegger.png",
+  "isskin": true,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 87,
+  "name": "Loose Cannon",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Loose_Cannon",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/70/Item_icon_Loose_Cannon.png/100px-Item_icon_Loose_Cannon.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 88,
+  "name": "B.A.S.E. Jumper",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/B.A.S.E._Jumper",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/b2/Item_icon_B.A.S.E._Jumper.png/100px-Item_icon_B.A.S.E._Jumper.png",
+  "isskin": false,
+  "classes": [
+   "Soldier",
+   "Demoman"
+  ]
+ },
+ {
+  "id": 89,
+  "name": "Iron Bomber",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Iron_Bomber",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/cd/Item_icon_Iron_Bomber.png/100px-Item_icon_Iron_Bomber.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 90,
+  "name": "Stickybomb Launcher",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Stickybomb_Launcher",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/7c/Item_icon_Stickybomb_Launcher.png/100px-Item_icon_Stickybomb_Launcher.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 91,
+  "name": "Scottish Resistance",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Scottish_Resistance",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/2/2c/Item_icon_Scottish_Resistance.png/100px-Item_icon_Scottish_Resistance.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 92,
+  "name": "Chargin' Targe",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Chargin%27_Targe",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/7a/Item_icon_Chargin%27_Targe.png/100px-Item_icon_Chargin%27_Targe.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 93,
+  "name": "Sticky Jumper",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Sticky_Jumper",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/56/Item_icon_Sticky_Jumper.png/100px-Item_icon_Sticky_Jumper.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 94,
+  "name": "Splendid Screen",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Splendid_Screen",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/c3/Item_icon_Splendid_Screen.png/100px-Item_icon_Splendid_Screen.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 95,
+  "name": "Tide Turner",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Tide_Turner",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/cd/Item_icon_Tide_Turner.png/100px-Item_icon_Tide_Turner.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 96,
+  "name": "Quickiebomb Launcher",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Quickiebomb_Launcher",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/f/f9/Item_icon_Quickiebomb_Launcher.png/100px-Item_icon_Quickiebomb_Launcher.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 97,
+  "name": "Bottle",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Bottle",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/b2/Item_icon_Bottle.png/100px-Item_icon_Bottle.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 98,
+  "name": "Scottish Handshake",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Scottish_Handshake",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/1/1a/Item_icon_Scottish_Handshake.png/100px-Item_icon_Scottish_Handshake.png",
+  "isskin": true,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 99,
+  "name": "Eyelander",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Eyelander",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/9/94/Item_icon_Eyelander.png/100px-Item_icon_Eyelander.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 100,
+  "name": "Horseless Headless Horsemann's Headtaker",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Horseless_Headless_Horsemann%27s_Headtaker",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/1/1f/Item_icon_Horseless_Headless_Horsemann%27s_Headtaker.png/100px-Item_icon_Horseless_Headless_Horsemann%27s_Headtaker.png",
+  "isskin": true,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 101,
+  "name": "Nessie's Nine Iron",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Nessie%27s_Nine_Iron",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/5a/Item_icon_Nessie%27s_Nine_Iron.png/100px-Item_icon_Nessie%27s_Nine_Iron.png",
+  "isskin": true,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 102,
+  "name": "Scotsman's Skullcutter",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Scotsman%27s_Skullcutter",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/c6/Item_icon_Scotsman%27s_Skullcutter.png/100px-Item_icon_Scotsman%27s_Skullcutter.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 103,
+  "name": "Pain Train",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Pain_Train",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/4/4b/Item_icon_Pain_Train.png/100px-Item_icon_Pain_Train.png",
+  "isskin": false,
+  "classes": [
+   "Soldier",
+   "Demoman"
+  ]
+ },
+ {
+  "id": 104,
+  "name": "Ullapool Caber",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Ullapool_Caber",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/a/a5/Item_icon_Ullapool_Caber.png/100px-Item_icon_Ullapool_Caber.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 105,
+  "name": "Claidheamh Mòr",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Claidheamh_M%C3%B2r",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/0/0f/Item_icon_Claidheamh_M%C3%B2r.png/100px-Item_icon_Claidheamh_M%C3%B2r.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 106,
+  "name": "Half-Zatoichi",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Half-Zatoichi",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/a/a9/Item_icon_Half-Zatoichi.png/100px-Item_icon_Half-Zatoichi.png",
+  "isskin": false,
+  "classes": [
+   "Soldier",
+   "Demoman"
+  ]
+ },
+ {
+  "id": 107,
+  "name": "Persian Persuader",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Persian_Persuader",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/9/98/Item_icon_Persian_Persuader.png/100px-Item_icon_Persian_Persuader.png",
+  "isskin": false,
+  "classes": [
+   "Demoman"
+  ]
+ },
+ {
+  "id": 108,
+  "name": "Minigun",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Minigun",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/a/a7/Item_icon_Minigun.png/100px-Item_icon_Minigun.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 109,
+  "name": "Iron Curtain",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Iron_Curtain",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/d/da/Item_icon_Iron_Curtain.png/100px-Item_icon_Iron_Curtain.png",
+  "isskin": true,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 110,
+  "name": "Natascha",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Natascha",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/cc/Item_icon_Natascha.png/100px-Item_icon_Natascha.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 111,
+  "name": "Brass Beast",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Brass_Beast",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/6/64/Item_icon_Brass_Beast.png/100px-Item_icon_Brass_Beast.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 112,
+  "name": "Tomislav",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Tomislav",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/3/3e/Item_icon_Tomislav.png/100px-Item_icon_Tomislav.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 113,
+  "name": "Huo-Long Heater",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Huo-Long_Heater",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/81/Item_icon_Huo-Long_Heater.png/100px-Item_icon_Huo-Long_Heater.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 114,
+  "name": "Shotgun",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Shotgun",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/5f/Item_icon_Shotgun.png/100px-Item_icon_Shotgun.png",
+  "isskin": false,
+  "classes": [
+   "Engineer",
+   "Soldier",
+   "Pyro",
+   "Heavy"
+  ]
+ },
+ {
+  "id": 115,
+  "name": "Family Business",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Family_Business",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/cd/Item_icon_Family_Business.png/100px-Item_icon_Family_Business.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 116,
+  "name": "Sandvich",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Sandvich",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/5e/Item_icon_Sandvich.png/100px-Item_icon_Sandvich.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 117,
+  "name": "Robo-Sandvich",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Robo-Sandvich",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/cb/Item_icon_Robo-Sandvich.png/100px-Item_icon_Robo-Sandvich.png",
+  "isskin": true,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 118,
+  "name": "Dalokohs Bar",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Dalokohs_Bar",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/3/35/Item_icon_Dalokohs_Bar.png/100px-Item_icon_Dalokohs_Bar.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 119,
+  "name": "Fishcake",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Fishcake",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/9/94/Item_icon_Fishcake.png/100px-Item_icon_Fishcake.png",
+  "isskin": true,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 120,
+  "name": "Buffalo Steak Sandvich",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Buffalo_Steak_Sandvich",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/6/62/Item_icon_Buffalo_Steak_Sandvich.png/100px-Item_icon_Buffalo_Steak_Sandvich.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 121,
+  "name": "Panic Attack",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Panic_Attack",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/be/Item_icon_Panic_Attack.png/100px-Item_icon_Panic_Attack.png",
+  "isskin": false,
+  "classes": [
+   "Engineer",
+   "Soldier",
+   "Pyro",
+   "Heavy"
+  ]
+ },
+ {
+  "id": 122,
+  "name": "Second Banana",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Second_Banana",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/77/Item_icon_Second_Banana.png/100px-Item_icon_Second_Banana.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 123,
+  "name": "Fists",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Fists",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/1/19/Item_icon_Fists.png/100px-Item_icon_Fists.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 124,
+  "name": "Apoco-Fists",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Apoco-Fists",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/9/91/Item_icon_Apoco-Fists.png/100px-Item_icon_Apoco-Fists.png",
+  "isskin": true,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 125,
+  "name": "Killing Gloves of Boxing",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Killing_Gloves_of_Boxing",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/f/f6/Item_icon_Killing_Gloves_of_Boxing.png/100px-Item_icon_Killing_Gloves_of_Boxing.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 126,
+  "name": "Gloves of Running Urgently",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Gloves_of_Running_Urgently",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/4/4f/Item_icon_Gloves_of_Running_Urgently.png/100px-Item_icon_Gloves_of_Running_Urgently.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 127,
+  "name": "Bread Bite",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Bread_Bite",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/a/a4/Item_icon_Bread_Bite.png/100px-Item_icon_Bread_Bite.png",
+  "isskin": true,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 128,
+  "name": "Warrior's Spirit",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Warrior%27s_Spirit",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/87/Item_icon_Warrior%27s_Spirit.png/100px-Item_icon_Warrior%27s_Spirit.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 129,
+  "name": "Fists of Steel",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Fists_of_Steel",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/9/9c/Item_icon_Fists_of_Steel.png/100px-Item_icon_Fists_of_Steel.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 130,
+  "name": "Eviction Notice",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Eviction_Notice",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/6/62/Item_icon_Eviction_Notice.png/100px-Item_icon_Eviction_Notice.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 131,
+  "name": "Holiday Punch",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Holiday_Punch",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/54/Item_icon_Holiday_Punch.png/100px-Item_icon_Holiday_Punch.png",
+  "isskin": false,
+  "classes": [
+   "Heavy"
+  ]
+ },
+ {
+  "id": 132,
+  "name": "Shotgun",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Shotgun",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/5f/Item_icon_Shotgun.png/100px-Item_icon_Shotgun.png",
+  "isskin": false,
+  "classes": [
+   "Engineer",
+   "Soldier",
+   "Pyro",
+   "Heavy"
+  ]
+ },
+ {
+  "id": 133,
+  "name": "Frontier Justice",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Frontier_Justice",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/2/26/Item_icon_Frontier_Justice.png/100px-Item_icon_Frontier_Justice.png",
+  "isskin": false,
+  "classes": [
+   "Engineer"
+  ]
+ },
+ {
+  "id": 134,
+  "name": "Widowmaker",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Widowmaker",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/b8/Item_icon_Widowmaker.png/100px-Item_icon_Widowmaker.png",
+  "isskin": false,
+  "classes": [
+   "Engineer"
+  ]
+ },
+ {
+  "id": 135,
+  "name": "Pomson 6000",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Pomson_6000",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/89/Item_icon_Pomson_6000.png/100px-Item_icon_Pomson_6000.png",
+  "isskin": false,
+  "classes": [
+   "Engineer"
+  ]
+ },
+ {
+  "id": 136,
+  "name": "Rescue Ranger",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Rescue_Ranger",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/2/29/Item_icon_Rescue_Ranger.png/100px-Item_icon_Rescue_Ranger.png",
+  "isskin": false,
+  "classes": [
+   "Engineer"
+  ]
+ },
+ {
+  "id": 137,
+  "name": "Panic Attack",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Panic_Attack",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/be/Item_icon_Panic_Attack.png/100px-Item_icon_Panic_Attack.png",
+  "isskin": false,
+  "classes": [
+   "Engineer",
+   "Soldier",
+   "Pyro",
+   "Heavy"
+  ]
+ },
+ {
+  "id": 138,
+  "name": "Pistol",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Pistol",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/52/Item_icon_Pistol.png/100px-Item_icon_Pistol.png",
+  "isskin": false,
+  "classes": [
+   "Scout",
+   "Engineer"
+  ]
+ },
+ {
+  "id": 139,
+  "name": "Lugermorph",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Lugermorph",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/86/Item_icon_Lugermorph.png/100px-Item_icon_Lugermorph.png",
+  "isskin": true,
+  "classes": [
+   "Scout",
+   "Engineer"
+  ]
+ },
+ {
+  "id": 140,
+  "name": "C.A.P.P.E.R",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/C.A.P.P.E.R",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/a/a6/Item_icon_C.A.P.P.E.R.png/100px-Item_icon_C.A.P.P.E.R.png",
+  "isskin": true,
+  "classes": [
+   "Scout",
+   "Engineer"
+  ]
+ },
+ {
+  "id": 141,
+  "name": "Wrangler",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Wrangler",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/ce/Item_icon_Wrangler.png/100px-Item_icon_Wrangler.png",
+  "isskin": false,
+  "classes": [
+   "Engineer"
+  ]
+ },
+ {
+  "id": 142,
+  "name": "Giger Counter",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Giger_Counter",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/5d/Item_icon_Giger_Counter.png/100px-Item_icon_Giger_Counter.png",
+  "isskin": true,
+  "classes": [
+   "Engineer"
+  ]
+ },
+ {
+  "id": 143,
+  "name": "Short Circuit",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Short_Circuit",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/3/36/Item_icon_Short_Circuit.png/100px-Item_icon_Short_Circuit.png",
+  "isskin": false,
+  "classes": [
+   "Engineer"
+  ]
+ },
+ {
+  "id": 144,
+  "name": "Wrench",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Wrench",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/7d/Item_icon_Wrench.png/100px-Item_icon_Wrench.png",
+  "isskin": false,
+  "classes": [
+   "Engineer"
+  ]
+ },
+ {
+  "id": 145,
+  "name": "Golden Wrench",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Golden_Wrench",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/9/95/Item_icon_Golden_Wrench.png/100px-Item_icon_Golden_Wrench.png",
+  "isskin": true,
+  "classes": [
+   "Engineer"
+  ]
+ },
+ {
+  "id": 146,
+  "name": "Gunslinger",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Gunslinger",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/ca/Item_icon_Gunslinger.png/100px-Item_icon_Gunslinger.png",
+  "isskin": false,
+  "classes": [
+   "Engineer"
+  ]
+ },
+ {
+  "id": 147,
+  "name": "Southern Hospitality",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Southern_Hospitality",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/e/ec/Item_icon_Southern_Hospitality.png/100px-Item_icon_Southern_Hospitality.png",
+  "isskin": false,
+  "classes": [
+   "Engineer"
+  ]
+ },
+ {
+  "id": 148,
+  "name": "Jag",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Jag",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/4/49/Item_icon_Jag.png/100px-Item_icon_Jag.png",
+  "isskin": false,
+  "classes": [
+   "Engineer"
+  ]
+ },
+ {
+  "id": 149,
+  "name": "Eureka Effect",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Eureka_Effect",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/cf/Item_icon_Eureka_Effect.png/100px-Item_icon_Eureka_Effect.png",
+  "isskin": false,
+  "classes": [
+   "Engineer"
+  ]
+ },
+ {
+  "id": 150,
+  "name": "Syringe Gun",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Syringe_Gun",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/c4/Item_icon_Syringe_Gun.png/100px-Item_icon_Syringe_Gun.png",
+  "isskin": false,
+  "classes": [
+   "Medic"
+  ]
+ },
+ {
+  "id": 151,
+  "name": "Blutsauger",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Blutsauger",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/1/13/Item_icon_Blutsauger.png/100px-Item_icon_Blutsauger.png",
+  "isskin": false,
+  "classes": [
+   "Medic"
+  ]
+ },
+ {
+  "id": 152,
+  "name": "Crusader's Crossbow",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Crusader%27s_Crossbow",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/9/9c/Item_icon_Crusader%27s_Crossbow.png/100px-Item_icon_Crusader%27s_Crossbow.png",
+  "isskin": false,
+  "classes": [
+   "Medic"
+  ]
+ },
+ {
+  "id": 153,
+  "name": "Overdose",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Overdose",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/f/fe/Item_icon_Overdose.png/100px-Item_icon_Overdose.png",
+  "isskin": false,
+  "classes": [
+   "Medic"
+  ]
+ },
+ {
+  "id": 154,
+  "name": "Medi Gun",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Medi_Gun",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/4/4a/Item_icon_Medi_Gun.png/100px-Item_icon_Medi_Gun.png",
+  "isskin": false,
+  "classes": [
+   "Medic"
+  ]
+ },
+ {
+  "id": 155,
+  "name": "Kritzkrieg",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Kritzkrieg",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/85/Item_icon_Kritzkrieg.png/100px-Item_icon_Kritzkrieg.png",
+  "isskin": false,
+  "classes": [
+   "Medic"
+  ]
+ },
+ {
+  "id": 156,
+  "name": "Quick-Fix",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Quick-Fix",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/50/Item_icon_Quick-Fix.png/100px-Item_icon_Quick-Fix.png",
+  "isskin": false,
+  "classes": [
+   "Medic"
+  ]
+ },
+ {
+  "id": 157,
+  "name": "Vaccinator",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Vaccinator",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/9/9d/Item_icon_Vaccinator.png/100px-Item_icon_Vaccinator.png",
+  "isskin": false,
+  "classes": [
+   "Medic"
+  ]
+ },
+ {
+  "id": 158,
+  "name": "Bonesaw",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Bonesaw",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/8d/Item_icon_Bonesaw.png/100px-Item_icon_Bonesaw.png",
+  "isskin": false,
+  "classes": [
+   "Medic"
+  ]
+ },
+ {
+  "id": 159,
+  "name": "Übersaw",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Ubersaw",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/0/04/Item_icon_Ubersaw.png/100px-Item_icon_Ubersaw.png",
+  "isskin": false,
+  "classes": [
+   "Medic"
+  ]
+ },
+ {
+  "id": 160,
+  "name": "Vita-Saw",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Vita-Saw",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/70/Item_icon_Vita-Saw.png/100px-Item_icon_Vita-Saw.png",
+  "isskin": false,
+  "classes": [
+   "Medic"
+  ]
+ },
+ {
+  "id": 161,
+  "name": "Amputator",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Amputator",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/a/ab/Item_icon_Amputator.png/100px-Item_icon_Amputator.png",
+  "isskin": false,
+  "classes": [
+   "Medic"
+  ]
+ },
+ {
+  "id": 162,
+  "name": "Solemn Vow",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Solemn_Vow",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/d/db/Item_icon_Solemn_Vow.png/100px-Item_icon_Solemn_Vow.png",
+  "isskin": false,
+  "classes": [
+   "Medic"
+  ]
+ },
+ {
+  "id": 163,
+  "name": "Sniper Rifle",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Sniper_Rifle",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/a/a1/Item_icon_Sniper_Rifle.png/100px-Item_icon_Sniper_Rifle.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 164,
+  "name": "AWPer Hand",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/AWPer_Hand",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/2/24/Item_icon_AWPer_Hand.png/100px-Item_icon_AWPer_Hand.png",
+  "isskin": true,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 165,
+  "name": "Huntsman",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Huntsman",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/f/f8/Item_icon_Huntsman.png/100px-Item_icon_Huntsman.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 166,
+  "name": "Fortified Compound",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Fortified_Compound",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/89/Item_icon_Fortified_Compound.png/100px-Item_icon_Fortified_Compound.png",
+  "isskin": true,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 167,
+  "name": "Sydney Sleeper",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Sydney_Sleeper",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/6/6a/Item_icon_Sydney_Sleeper.png/100px-Item_icon_Sydney_Sleeper.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 168,
+  "name": "Bazaar Bargain",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Bazaar_Bargain",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/f/f4/Item_icon_Bazaar_Bargain.png/100px-Item_icon_Bazaar_Bargain.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 169,
+  "name": "Machina",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Machina",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/a/ae/Item_icon_Machina.png/100px-Item_icon_Machina.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 170,
+  "name": "Shooting Star",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Shooting_Star",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/d/d7/Item_icon_Shooting_Star.png/100px-Item_icon_Shooting_Star.png",
+  "isskin": true,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 171,
+  "name": "Hitman's Heatmaker",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Hitman%27s_Heatmaker",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/1/18/Item_icon_Hitman%27s_Heatmaker.png/100px-Item_icon_Hitman%27s_Heatmaker.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 172,
+  "name": "Classic",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Classic",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/73/Item_icon_Classic.png/100px-Item_icon_Classic.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 173,
+  "name": "SMG",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/SMG",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/50/Item_icon_SMG.png/100px-Item_icon_SMG.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 174,
+  "name": "Cleaner's Carbine",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Cleaner%27s_Carbine",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/6/64/Item_icon_Cleaner%27s_Carbine.png/100px-Item_icon_Cleaner%27s_Carbine.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 175,
+  "name": "Jarate",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Jarate",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/b3/Item_icon_Jarate.png/100px-Item_icon_Jarate.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 176,
+  "name": "Self-Aware Beauty Mark",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Self-Aware_Beauty_Mark",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/2/2e/Item_icon_Self-Aware_Beauty_Mark.png/100px-Item_icon_Self-Aware_Beauty_Mark.png",
+  "isskin": true,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 177,
+  "name": "Razorback",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Razorback",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/0/0f/Item_icon_Razorback.png/100px-Item_icon_Razorback.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 178,
+  "name": "Darwin's Danger Shield",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Darwin%27s_Danger_Shield",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/4/44/Item_icon_Darwin%27s_Danger_Shield.png/100px-Item_icon_Darwin%27s_Danger_Shield.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 179,
+  "name": "Cozy Camper",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Cozy_Camper",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/0/01/Item_icon_Cozy_Camper.png/100px-Item_icon_Cozy_Camper.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 180,
+  "name": "Kukri",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Kukri",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/e/ea/Item_icon_Kukri.png/100px-Item_icon_Kukri.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 181,
+  "name": "Tribalman's Shiv",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Tribalman%27s_Shiv",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/55/Item_icon_Tribalman%27s_Shiv.png/100px-Item_icon_Tribalman%27s_Shiv.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 182,
+  "name": "Bushwacka",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Bushwacka",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/4/46/Item_icon_Bushwacka.png/100px-Item_icon_Bushwacka.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 183,
+  "name": "Shahanshah",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Shahanshah",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/8d/Item_icon_Shahanshah.png/100px-Item_icon_Shahanshah.png",
+  "isskin": false,
+  "classes": [
+   "Sniper"
+  ]
+ },
+ {
+  "id": 184,
+  "name": "Revolver",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Revolver",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/1/1f/Item_icon_Revolver.png/100px-Item_icon_Revolver.png",
+  "isskin": false,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 185,
+  "name": "Big Kill",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Big_Kill",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/3/31/Item_icon_Big_Kill.png/100px-Item_icon_Big_Kill.png",
+  "isskin": true,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 186,
+  "name": "Ambassador",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Ambassador",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/e/ec/Item_icon_Ambassador.png/100px-Item_icon_Ambassador.png",
+  "isskin": false,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 187,
+  "name": "L'Etranger",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/L%27Etranger",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/b1/Item_icon_L%27Etranger.png/100px-Item_icon_L%27Etranger.png",
+  "isskin": false,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 188,
+  "name": "Enforcer",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Enforcer",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/b6/Item_icon_Enforcer.png/100px-Item_icon_Enforcer.png",
+  "isskin": false,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 189,
+  "name": "Diamondback",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Diamondback",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/b4/Item_icon_Diamondback.png/100px-Item_icon_Diamondback.png",
+  "isskin": false,
+  "classes": null
+ },
+ {
+  "id": 190,
+  "name": "Knife",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Knife",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/5/57/Item_icon_Knife.png/100px-Item_icon_Knife.png",
+  "isskin": false,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 191,
+  "name": "Sharp Dresser",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Sharp_Dresser",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/e/eb/Item_icon_Sharp_Dresser.png/100px-Item_icon_Sharp_Dresser.png",
+  "isskin": true,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 192,
+  "name": "Black Rose",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Black_Rose",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/3/33/Item_icon_Black_Rose.png/100px-Item_icon_Black_Rose.png",
+  "isskin": true,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 193,
+  "name": "Your Eternal Reward",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Your_Eternal_Reward",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/d/d3/Item_icon_Your_Eternal_Reward.png/100px-Item_icon_Your_Eternal_Reward.png",
+  "isskin": false,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 194,
+  "name": "Wanga Prick",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Wanga_Prick",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/f/f5/Item_icon_Wanga_Prick.png/100px-Item_icon_Wanga_Prick.png",
+  "isskin": true,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 195,
+  "name": "Conniver's Kunai",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Conniver%27s_Kunai",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/0/02/Item_icon_Conniver%27s_Kunai.png/100px-Item_icon_Conniver%27s_Kunai.png",
+  "isskin": false,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 196,
+  "name": "Big Earner",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Big_Earner",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/c9/Item_icon_Big_Earner.png/100px-Item_icon_Big_Earner.png",
+  "isskin": false,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 197,
+  "name": "Spy-Cicle",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Spy-cicle",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/72/Item_icon_Spy-Cicle.png/100px-Item_icon_Spy-Cicle.png",
+  "isskin": false,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 198,
+  "name": "Disguise Kit",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Disguise_Kit",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/81/Item_icon_Disguise_Kit.png/100px-Item_icon_Disguise_Kit.png",
+  "isskin": false,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 199,
+  "name": "Invis Watch",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Invis_Watch",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/7c/Item_icon_Invis_Watch.png/100px-Item_icon_Invis_Watch.png",
+  "isskin": false,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 200,
+  "name": "Enthusiast's Timepiece",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Enthusiast%27s_Timepiece",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/1/10/Item_icon_Enthusiast%27s_Timepiece.png/100px-Item_icon_Enthusiast%27s_Timepiece.png",
+  "isskin": true,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 201,
+  "name": "Quäckenbirdt",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Qu%C3%A4ckenbirdt",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/f/f6/Item_icon_Quackenbirdt.png/100px-Item_icon_Quackenbirdt.png",
+  "isskin": true,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 202,
+  "name": "Cloak and Dagger",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Cloak_and_Dagger",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/0/00/Item_icon_Cloak_and_Dagger.png/100px-Item_icon_Cloak_and_Dagger.png",
+  "isskin": false,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 203,
+  "name": "Dead Ringer",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Dead_Ringer",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/b/b7/Item_icon_Dead_Ringer.png/100px-Item_icon_Dead_Ringer.png",
+  "isskin": false,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 204,
+  "name": "Sapper",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Sapper",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/6/6c/Item_icon_Sapper.png/100px-Item_icon_Sapper.png",
+  "isskin": false,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 205,
+  "name": "Ap-Sap",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Ap-Sap",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/1/17/Item_icon_Ap-Sap.png/100px-Item_icon_Ap-Sap.png",
+  "isskin": true,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 206,
+  "name": "Snack Attack",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Snack_Attack",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/2/27/Item_icon_Snack_Attack.png/100px-Item_icon_Snack_Attack.png",
+  "isskin": true,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 207,
+  "name": "Red-Tape Recorder",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Red-Tape_Recorder",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/7/7d/Item_icon_Red-Tape_Recorder.png/100px-Item_icon_Red-Tape_Recorder.png",
+  "isskin": false,
+  "classes": [
+   "Spy"
+  ]
+ },
+ {
+  "id": 208,
+  "name": "Saxxy",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Saxxy",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/1/18/Item_icon_Saxxy.png/100px-Item_icon_Saxxy.png",
+  "isskin": true,
+  "classes": [
+   "All classes"
+  ]
+ },
+ {
+  "id": 209,
+  "name": "Frying Pan",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Frying_Pan",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/c1/Item_icon_Frying_Pan.png/100px-Item_icon_Frying_Pan.png",
+  "isskin": true,
+  "classes": [
+   "All classes",
+   "Engineer",
+   "Spy"
+  ]
+ },
+ {
+  "id": 210,
+  "name": "Conscientious Objector",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Conscientious_Objector",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/cb/Item_icon_Conscientious_Objector.png/100px-Item_icon_Conscientious_Objector.png",
+  "isskin": true,
+  "classes": [
+   "All classes",
+   "Engineer",
+   "Spy"
+  ]
+ },
+ {
+  "id": 211,
+  "name": "Freedom Staff",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Freedom_Staff",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/2/28/Item_icon_Freedom_Staff.png/100px-Item_icon_Freedom_Staff.png",
+  "isskin": true,
+  "classes": [
+   "All classes",
+   "Engineer",
+   "Spy"
+  ]
+ },
+ {
+  "id": 212,
+  "name": "Bat Outta Hell",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Bat_Outta_Hell",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/c/c5/Item_icon_Bat_Outta_Hell.png/100px-Item_icon_Bat_Outta_Hell.png",
+  "isskin": true,
+  "classes": [
+   "All classes",
+   "Engineer",
+   "Spy"
+  ]
+ },
+ {
+  "id": 213,
+  "name": "Memory Maker",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Memory_Maker",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/9/93/Item_icon_Memory_Maker.png/100px-Item_icon_Memory_Maker.png",
+  "isskin": true,
+  "classes": [
+   "All classes",
+   "Engineer",
+   "Spy"
+  ]
+ },
+ {
+  "id": 214,
+  "name": "Ham Shank",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Ham_Shank",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/6/6a/Item_icon_Ham_Shank.png/100px-Item_icon_Ham_Shank.png",
+  "isskin": true,
+  "classes": [
+   "All classes",
+   "Engineer",
+   "Spy"
+  ]
+ },
+ {
+  "id": 215,
+  "name": "Golden Frying Pan",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Golden_Frying_Pan",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/8f/Item_icon_Golden_Frying_Pan.png/100px-Item_icon_Golden_Frying_Pan.png",
+  "isskin": true,
+  "classes": [
+   "All classes"
+  ]
+ },
+ {
+  "id": 216,
+  "name": "Necro Smasher",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Necro_Smasher",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/1/1a/Item_icon_Necro_Smasher.png/100px-Item_icon_Necro_Smasher.png",
+  "isskin": true,
+  "classes": [
+   "All classes",
+   "Spy"
+  ]
+ },
+ {
+  "id": 217,
+  "name": "Crossing Guard",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Crossing_Guard",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/8/8c/Item_icon_Crossing_Guard.png/100px-Item_icon_Crossing_Guard.png",
+  "isskin": true,
+  "classes": [
+   "All classes",
+   "Engineer",
+   "Spy"
+  ]
+ },
+ {
+  "id": 218,
+  "name": "Prinny Machete",
+  "wikiurl": "https://wiki.teamfortress.com/wiki/Prinny_Machete",
+  "imageurl": "https://wiki.teamfortress.com/w/images/thumb/e/ef/Item_icon_Prinny_Machete.png/100px-Item_icon_Prinny_Machete.png",
+  "isskin": true,
+  "classes": [
+   "All classes"
+  ]
+ }
+]
