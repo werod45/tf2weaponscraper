@@ -5,22 +5,35 @@ import (
 	"fmt"
 	"os"
 	"strings"
+	"time"
 
 	"github.com/gocolly/colly/v2"
 )
 
 func main() {
+	//out of curiosity, i wonder how much this process takes now
+	start := time.Now()
+
 	if len(os.Args) > 2 {
 		fmt.Println("you like arguments, dont you?")
 	}
 	//i assume its something you would call initialization (theres a chance i didnt spelled that correctly)
-	c := colly.NewCollector()
+	c := colly.NewCollector(
+		colly.Async(true),
+	)
+
+	c.Limit(&colly.LimitRule{
+		DomainGlob:  "*",
+		Parallelism: 25,
+	})
+
 	gridItteration := 0
 	type Weapon struct {
 		ID       int      `json:"id"`
 		Name     string   `json:"name"`
 		WikiURL  string   `json:"wikiurl"`
 		ImageURL string   `json:"imageurl"`
+		Slot     string   `json:"slot"`
 		IsSkin   bool     `json:"isskin"`
 		Classes  []string `json:"classes"`
 	}
@@ -58,6 +71,11 @@ func main() {
 		if ok {
 			humbleJson.Classes = val
 		}
+
+		if val, ok := values["slot"].(string); ok {
+			humbleJson.Slot = val
+		}
+
 		weapons = append(weapons, humbleJson)
 		fmt.Printf("\rLoaded: %d", gridItteration)
 	})
@@ -72,6 +90,8 @@ func main() {
 	})
 
 	c.Visit("https://wiki.teamfortress.com/wiki/Weapons")
+
+	c.Wait()
 
 	fmt.Println()
 
@@ -100,10 +120,20 @@ func main() {
 		}
 	}
 	fmt.Println("done! have a good one")
+	elapsed := time.Since(start)
+	fmt.Println("this took", elapsed)
 }
 
 func scrapeWeaponItself(linkToWeapon string) map[string]any {
-	c := colly.NewCollector()
+	c := colly.NewCollector(
+		colly.Async(true),
+	)
+
+	c.Limit(&colly.LimitRule{
+		DomainGlob:  "*",
+		Parallelism: 25,
+	})
+
 	//i dont like it tbh
 	var values = make(map[string]any)
 
@@ -124,6 +154,8 @@ func scrapeWeaponItself(linkToWeapon string) map[string]any {
 				classes = append(classes, el.Text)
 			})
 			values["classes"] = classes
+		} else if e.ChildText("td.infobox-label") == "Slot:" {
+			values["slot"] = e.ChildText("td a")
 		}
 	})
 
@@ -132,5 +164,6 @@ func scrapeWeaponItself(linkToWeapon string) map[string]any {
 	})
 
 	c.Visit(linkToWeapon)
+	c.Wait()
 	return values
 }
