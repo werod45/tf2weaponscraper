@@ -6,7 +6,6 @@ This script scraps all TF2 weapons of a https://wiki.teamfortress.com/wiki/Weapo
 i didn't compiled it, so you'll have to do everything from the whatever IDE you're using, clone the repo and do the thing
 ```
 go get github.com/gocolly/colly/v2
-
 ```
 
 ## Usage
